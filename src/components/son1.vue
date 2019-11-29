@@ -28,4 +28,8 @@ export default {
 .son1 {
   border: 10px solid pink;
 }
+
+.son2 {
+    border: 20px dashed blue;
+}
 </style>
